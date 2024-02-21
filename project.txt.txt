@@ -1,5 +1,6 @@
 this is my complete app.
 
 f1: this is my feature1.
+	-> added another feature1.
 
 f2: this is my feature2.
